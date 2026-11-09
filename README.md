@@ -3,9 +3,9 @@ Indonesia Economic Intelligence Dashboard: Analisis kondisi ekonomi Indonesia be
 
 
 # INDONESIA ECONOMIC INTELLIGENCE DASHBOARD
-Farrel Eksa Althof Syauqi (12010223140014)
-Nayla Raihanda Bimanthoro (12010223140005)
-Alcia Sandra Elgina Lumban Batu (12010223140004)
+1. Farrel Eksa Althof Syauqi (12010223140014)
+2. Nayla Raihanda Bimanthoro (12010223140005)
+3. Alcia Sandra Elgina Lumban Batu (12010223140004)
 
 ## Analisis Kondisi Ekonomi Indonesia Berbasis Data Science
 
